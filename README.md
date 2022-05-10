@@ -14,19 +14,5 @@ Clone the repo:
 git clone https://github.com/med98933/Starburger_App.git
 ```
 
-### Usage
 
-```bash
-cd client
-npm install
-npm start
-```
-
-In other terminal
-
-```bash
-cd server
-npm install
-npm start
-```
 
