@@ -3,7 +3,6 @@
 
 ## Built With
 
-* [React.js](//https://svelte.dev/docs/)
 * [Node.Js](https://nodejs.org)
 * [MongoDB](https://www.mongodb.com)
 * [Tailwind](https://tailwindcss.com)
